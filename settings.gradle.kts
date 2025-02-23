@@ -21,4 +21,5 @@ dependencyResolutionManagement {
 
 rootProject.name = "AnnotationSample"
 include(":app")
- 
+include(":ksp_annotation")
+include(":ksp_compiler")
